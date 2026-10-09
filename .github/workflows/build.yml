@@ -14,5 +14,5 @@ jobs:
       actions: write
     with:
       unpackers: 7zip
-      zip7-version: "25.01"
-      release-tag: v25.01
+      zip7-version: "26.02"
+      release-tag: v26.02
